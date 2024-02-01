@@ -1,0 +1,6 @@
+- Production: `main`
+- Release: `release-<year>-<month>-<day>-<seq_number>`
+- Waiting Release: `waiting`
+- Development: `dev`
+- Tasks: `task-<task_id>`
+- Hotfix: `hotfix-<task_id>`
